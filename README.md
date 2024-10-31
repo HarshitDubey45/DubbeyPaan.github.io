@@ -1,2 +1,2 @@
 # DubbeyPaan.github.io
-DubeyPaanVesu/imagesss
+DubeyPaanVesu/imagess
