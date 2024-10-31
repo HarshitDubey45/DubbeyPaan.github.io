@@ -2,6 +2,7 @@
 DubeyPaanVesu/imagesss/1-removebg-preview (1).png
 DubeyPaanVesu/imagesss/1-removebg-preview (1).png
 DubeyPaanVesu/imagesss/DubeyPaanImage.png
+DubeyPaanVesu/imagesss/Super chocolate pan.jpeg
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -561,7 +562,7 @@ button {
          <div class="carousel">
             <div class="carousel-images">
                 <img src="DubeyPaanVesu/imagesss/DubeyPaanImage.png" alt="Image 1">
-                <img src="/DubeyPaanVesu/imagesss/Super chocolate pan.jpeg" alt="Image 2">
+                <img src="DubeyPaanVesu/imagesss/Super chocolate pan.jpeg" alt="Image 2">
                 <img src="/DubeyPaanVesu/imagesss/download (1).jpeg" alt="Image 3">
             </div>
             <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
