@@ -585,7 +585,7 @@ button {
       <section id="Whopper" class="section">
          <h2>Chocolate pan ₹ = 50</h2>
          <div class= "img-containerfirst">
-            <img src="/DubeyPaanVesu/imagesss/download (1).jpeg" alt="hero-image">
+            <img src="DubeyPaanVesu/imagesss/download (1).jpeg" alt="hero-image">
          </div>
          
       </section>
