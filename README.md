@@ -4,6 +4,7 @@ DubeyPaanVesu/imagesss/1-removebg-preview (1).png
 DubeyPaanVesu/imagesss/DubeyPaanImage.png
 DubeyPaanVesu/imagesss/Super chocolate pan.jpeg
 DubeyPaanVesu/imagesss/download (1).jpeg
+DubeyPaanVesu/imagesss/MAGHAI MEETHA PAN.jpeg
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -577,7 +578,7 @@ button {
       <section id="Top-Picks" class="section">
          <h2>MAGHAI MEETHA PAN   ₹ = 55         </h2>
          <div class="img-containerfirst">
-            <img src="/DubeyPaanVesu/imagesss/MAGHAI MEETHA PAN.jpeg" alt="hero-image">
+            <img src="DubeyPaanVesu/imagesss/MAGHAI MEETHA PAN.jpeg" alt="hero-image">
          </div>
          
       </section>
