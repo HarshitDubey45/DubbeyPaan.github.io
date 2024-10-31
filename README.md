@@ -1,6 +1,6 @@
 # DubbeyPaan.github.io
 DubeyPaanVesu/imagesss/1-removebg-preview (1).png
-
+DubeyPaanVesu/imagesss/1-removebg-preview (1).png
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -514,7 +514,7 @@ button {
       <div class="header-content " >
    <!-- </header> -->
     <div class="logo" id="logo">
-        <img src="DubeyPaanVesu/imagesss/1-removebg-preview (1).png" alt="LOGO">
+        <img src="/DubeyPaanVesu/imagesss/1-removebg-preview (1).png" alt="LOGO">
     </div>
     
      <!--  RAKHNE Ko to ham div me bhi rakh sakte hai navigational bar
