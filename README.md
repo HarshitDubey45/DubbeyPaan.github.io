@@ -559,7 +559,7 @@ button {
           <div class="slideFirst">
          <div class="carousel">
             <div class="carousel-images">
-                <img src="/DubeyPaanVesu/imagesss/DubeyPaanImage.png" alt="Image 1">
+                <img src="DubeyPaanVesu/imagesss/DubeyPaanImage.png" alt="Image 1">
                 <img src="/DubeyPaanVesu/imagesss/Super chocolate pan.jpeg" alt="Image 2">
                 <img src="/DubeyPaanVesu/imagesss/download (1).jpeg" alt="Image 3">
             </div>
