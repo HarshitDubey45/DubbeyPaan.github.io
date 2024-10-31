@@ -9,6 +9,7 @@ DubeyPaanVesu/imagesss/images.jpeg
 DubeyPaanVesu/imagesss/Shahi  pan.jpeg
 DubeyPaanVesu/imagesss/Gundi pan3.jpeg
 DubeyPaanVesu/imagesss/333994347_732875088496620_8971074184401928432_n.jpg
+DubeyPaanVesu/imagesss/1-removebg-preview (1).png
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -643,7 +644,7 @@ button {
                   </ul> -->
                   
                   <img src="DubeyPaanVesu/imagesss/333994347_732875088496620_8971074184401928432_n.jpg" class="owner-image">
-                  <img src="/DubeyPaanVesu/imagesss/1-removebg-preview (1).png" alt="Owner's Picture" class="owner-image">
+                  <img src="DubeyPaanVesu/imagesss/1-removebg-preview (1).png" alt="Owner's Picture" class="owner-image">
                   <img src="/DubeyPaanVesu/imagesss/271928188_385773370067252_7774573447020605327_n.jpg" alt="Owner's Picture" class="owner-image">
                </p>
                <section>
