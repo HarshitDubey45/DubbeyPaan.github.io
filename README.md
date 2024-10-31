@@ -634,7 +634,7 @@ button {
                   <li>Customer-Centric: Your satisfaction is our priority! We welcome feedback and are always looking to improve.</li>
                   <li>Thank You for Your Support: Every purchase helps fuel young entrepreneurship and inspires creativity.</li>
                </ul> -->
-               <p>Welcome to <strong>Dubey Paan</strong>, a paan shop run by a creative 13-year-old! We offer a variety of delicious paan flavors made with love and fresh ingredients. Thank you for supporting young entrepreneurship!<br><br></br>
+               <p>Welcome to <strong>Dubey Paan</strong>, a paan shop run by a creative 13-year-old! We offer a variety of delicious paan flavors made with love and fresh ingredients. Thank you for supporting young entrepreneurship!<br></br>
                   <!-- <ul>
                      <li>Passion for Paan: Our young entrepreneur is passionate about crafting unique flavors that reflect both tradition and innovation.</li>
                      <li>Fresh Ingredients: We source only the freshest ingredients to ensure each bite is a burst of flavor.</li>
