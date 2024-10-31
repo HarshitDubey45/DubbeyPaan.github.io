@@ -564,7 +564,7 @@ button {
             <div class="carousel-images">
                 <img src="DubeyPaanVesu/imagesss/DubeyPaanImage.png" alt="Image 1">
                 <img src="DubeyPaanVesu/imagesss/Super chocolate pan.jpeg" alt="Image 2">
-                <img src="/DubeyPaanVesu/imagesss/download (1).jpeg" alt="Image 3">
+                <img src="DubeyPaanVesu/imagesss/download (1).jpeg" alt="Image 3">
             </div>
             <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
             <button class="next" onclick="moveSlide(1)">&#10095;</button>
