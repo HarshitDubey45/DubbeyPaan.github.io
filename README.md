@@ -5,6 +5,7 @@ DubeyPaanVesu/imagesss/DubeyPaanImage.png
 DubeyPaanVesu/imagesss/Super chocolate pan.jpeg
 DubeyPaanVesu/imagesss/download (1).jpeg
 DubeyPaanVesu/imagesss/MAGHAI MEETHA PAN.jpeg
+DubeyPaanVesu/imagesss/images.jpeg
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -592,7 +593,7 @@ button {
       <section id="Stunner-Menu" class="section">
          <h2>Super chocolate pan ₹ = 50 </h2>
          <div class="img-containerfirst">
-            <img src="/DubeyPaanVesu/imagesss/images.jpeg" alt="hero-image">
+            <img src="DubeyPaanVesu/imagesss/images.jpeg" alt="hero-image">
          </div>
          
       </section>
