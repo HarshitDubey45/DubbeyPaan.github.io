@@ -6,6 +6,7 @@ DubeyPaanVesu/imagesss/Super chocolate pan.jpeg
 DubeyPaanVesu/imagesss/download (1).jpeg
 DubeyPaanVesu/imagesss/MAGHAI MEETHA PAN.jpeg
 DubeyPaanVesu/imagesss/images.jpeg
+DubeyPaanVesu/imagesss/Shahi  pan.jpeg
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -600,7 +601,7 @@ button {
       <section id="New-Foodie-Collection" class="section">
          <h2>Shahi  pan ₹ = 40 </h2>
          <div class="img-containerfirst">
-            <img src="/DubeyPaanVesu/imagesss/sahi.jpeg" alt="hero-image">
+            <img src="DubeyPaanVesu/imagesss/Shahi  pan.jpeg" alt="hero-image">
          </div>
          
       </section>
