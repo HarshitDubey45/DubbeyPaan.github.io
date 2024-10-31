@@ -7,6 +7,7 @@ DubeyPaanVesu/imagesss/download (1).jpeg
 DubeyPaanVesu/imagesss/MAGHAI MEETHA PAN.jpeg
 DubeyPaanVesu/imagesss/images.jpeg
 DubeyPaanVesu/imagesss/Shahi  pan.jpeg
+DubeyPaanVesu/imagesss/Gundi pan3.jpeg
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -608,7 +609,7 @@ button {
       <section id="Deal-of-the-Day " class="section">
          <h2>Gundi pan ₹ = 35    </h2>
          <div class="img-containerfirst">
-            <img src="/DubeyPaanVesu/imagesss/Gundi pan3.jpeg" alt="hero-image">
+            <img src="DubeyPaanVesu/imagesss/Gundi pan3.jpeg" alt="hero-image">
          </div>
          
       </section>
