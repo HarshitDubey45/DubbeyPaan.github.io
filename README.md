@@ -1,15 +1,5 @@
 # DubbeyPaan.github.io
-DubeyPaanVesu/imagesss/1-removebg-preview (1).png
-DubeyPaanVesu/imagesss/1-removebg-preview (1).png
-DubeyPaanVesu/imagesss/DubeyPaanImage.png
-DubeyPaanVesu/imagesss/Super chocolate pan.jpeg
-DubeyPaanVesu/imagesss/download (1).jpeg
-DubeyPaanVesu/imagesss/MAGHAI MEETHA PAN.jpeg
-DubeyPaanVesu/imagesss/images.jpeg
-DubeyPaanVesu/imagesss/Shahi  pan.jpeg
-DubeyPaanVesu/imagesss/Gundi pan3.jpeg
-DubeyPaanVesu/imagesss/333994347_732875088496620_8971074184401928432_n.jpg
-DubeyPaanVesu/imagesss/1-removebg-preview (1).png
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -819,3 +809,14 @@ showSlide(currentIndex);
 </script>
 </body>
 </html>
+DubeyPaanVesu/imagesss/1-removebg-preview (1).png
+DubeyPaanVesu/imagesss/1-removebg-preview (1).png
+DubeyPaanVesu/imagesss/DubeyPaanImage.png
+DubeyPaanVesu/imagesss/Super chocolate pan.jpeg
+DubeyPaanVesu/imagesss/download (1).jpeg
+DubeyPaanVesu/imagesss/MAGHAI MEETHA PAN.jpeg
+DubeyPaanVesu/imagesss/images.jpeg
+DubeyPaanVesu/imagesss/Shahi  pan.jpeg
+DubeyPaanVesu/imagesss/Gundi pan3.jpeg
+DubeyPaanVesu/imagesss/333994347_732875088496620_8971074184401928432_n.jpg
+DubeyPaanVesu/imagesss/1-removebg-preview (1).png
