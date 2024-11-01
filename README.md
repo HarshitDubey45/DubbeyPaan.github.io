@@ -56,7 +56,7 @@ header{
 
  }
 .logo{
-    width: 100px;
+    width: 60px;
 }
 .logo img{
     width: 100%;
